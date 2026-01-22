@@ -1,6 +1,0 @@
-name: env_cellbender
-channels:
-  - bioconda
-dependencies:
-  - bioconda::cellbender=0.3.2
-
